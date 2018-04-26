@@ -2,10 +2,14 @@
 <animation-list
     xmlns:android= "http://schemas.android.com/apk/res/android"
     android:oneshot= "false">
-    <item android:drawable="@drawable/misil1"
+    <item android:drawable="@drawable/androidverde"
         android:duration="200" />
-    <item android:drawable="@drawable/misil2"
+    <item android:drawable="@drawable/lolipop"
         android:duration="200" />
-    <item android:drawable="@drawable/misil3"
+    <item android:drawable="@drawable/marshmallow"
+        android:duration="200" />
+    <item android:drawable="@drawable/nougat"
+        android:duration="200" />
+    <item android:drawable="@drawable/oreo"
         android:duration="200" />
 </animation-list>
